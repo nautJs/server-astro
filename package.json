@@ -1,0 +1,17 @@
+{
+  "name": "server-astro",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "repository": "https://github.com/nautJs/server-astro.git",
+  "author": "savio-84 <saviocarvalho01@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
